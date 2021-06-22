@@ -1,1 +1,1 @@
-Para ejecutar
+Actualmente existen dos ramas, una llamada servicio la cual contiene la lógica del servicio y se puede ejecutar en un servidor apache generandose un archivo .war y esta la rama master que contiene el proyecto del cliente que consume dicho servicio, para ejecutar el cliente se puede usar un servidor tal como glassfish
